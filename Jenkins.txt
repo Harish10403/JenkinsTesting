@@ -11,7 +11,7 @@ pipeline {
       steps {
 	echo 'Stage Hello'
         bat 'javac Test.java'
-	bat 'Test firstprog'
+	bat 'java Test'
       }
     }
   }
