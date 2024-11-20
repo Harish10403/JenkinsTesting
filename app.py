@@ -7,4 +7,4 @@ def subtract(a, b):
    return a - b
 
 add(3,5)
-sub(10,5)
+subtract(10,5)
